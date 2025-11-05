@@ -47,5 +47,3 @@
   - Pull-to-refresh
 
 ## 📄 Thông tin thêm
-
-- Xem chi tiết hướng dẫn build và submit tại [`BUILD_AND_SUBMIT.md`](BUILD_AND_SUBMIT.md)
